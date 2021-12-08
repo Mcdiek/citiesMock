@@ -1,6 +1,7 @@
 {
   "cities": [
     {
+      "id" : 1,
       "cityName": "Bogota",
       "depName": "Cundinamarca",
       "temperature": "17°",
@@ -9,6 +10,7 @@
       "ratCityValue": "5"
     },
     {
+      "id" : 2,
       "cityName": "Cali",
       "depName": "Valle del cauca",
       "temperature": "25°",
@@ -17,6 +19,7 @@
       "ratCityValue": "4"
     },
     {
+      "id" : 3,
       "cityName": "Pasto",
       "depName": "Nariño",
       "temperature": "17°",
@@ -25,6 +28,7 @@
       "ratCityValue": "2.5"
     },
     {
+      "id" : 4,
       "cityName": "Medellin",
       "depName": "Antioquia",
       "temperature": "20°",
@@ -33,6 +37,7 @@
       "ratCityValue": "4"
     },
     {
+      "id" : 5,
       "cityName": "Ibague",
       "depName": "Antioquia",
       "temperature": "20°",
