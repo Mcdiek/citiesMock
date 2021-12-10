@@ -39,10 +39,19 @@
     {
       "id" : 5,
       "cityName": "Ibague",
-      "depName": "Antioquia",
+      "depName": "Tolima",
       "temperature": "20°",
       "imageUrl": "https://pymstatic.com/81403/conversions/mejores-psicologos-ibague-default.jpg",
       "cityDescription": "Ibagué es un municipio colombiano ubicado en el centro-occidente de Colombia, sobre la Cordillera Central de los Andes entre el Cañón del Combeima y el Valle del Magdalena, en cercanías del Nevado del Tolima. Es la capital del departamento de Tolima. Se encuentra a una altitud promedio de 1285 m.s.n.m; su área urbana se divide en 13 comunas y su zona rural en más de 17 corregimientos, 144 veredas y 14 inspecciones. Fue fundada el 14 de octubre de 1550 por el capitán español Andrés López de Galarza como Villa de San Bonifacio de Ibagué del Valle de las Lanzas, lo que la convierte en una de las ciudades más antiguas de América. Por ser una ciudad capital, alberga la Gobernación del Tolima, el Palacio de Justicia, el Palacio Municipal, la Asamblea Departamental, la sede departamental de la Fiscalía General de la Nación, y es el principal epicentro político, industrial, comercial, cultural, financiero y turístico del departamento.",
+      "ratCityValue": "2"
+    },
+    {
+      "id" : 6,
+      "cityName": "Neiva",
+      "depName": "Huila",
+      "temperature": "27°",
+      "imageUrl": "https://cr00.epimg.net/radio/imagenes/2020/05/23/el_sabor_de_colombia/1590264733_469078_1590265146_noticia_normal.jpg",
+      "cityDescription": "Neiva es un municipio colombiano, capital del departamento de Huila. Yace entre la cordillera Central y Oriental, en una planicie sobre la margen oriental del río Magdalena, en el valle del mismo nombre, cruzada por el río Las Ceibas y el río del Oro. Su extensión territorial de 1533 km², su altura de 442 metros sobre el nivel del mar y su temperatura promedio de 27.7 °C.5​",
       "ratCityValue": "2"
     }
   ]
